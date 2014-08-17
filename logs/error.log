@@ -1,0 +1,21 @@
+[Sun Aug 17 20:30:48.827448 2014] [:error] [pid 14754] [client 127.0.0.1:53882] PHP Fatal error:  Class 'Route' not found in /home/neron7/sites/sq.tj/www/laravel/app/routes.php on line 14, referer: http://sq.tj/laravel/app/
+[Sun Aug 17 20:30:48.827525 2014] [:error] [pid 14754] [client 127.0.0.1:53882] PHP Stack trace:, referer: http://sq.tj/laravel/app/
+[Sun Aug 17 20:30:48.827546 2014] [:error] [pid 14754] [client 127.0.0.1:53882] PHP   1. {main}() /home/neron7/sites/sq.tj/www/laravel/app/routes.php:0, referer: http://sq.tj/laravel/app/
+[Sun Aug 17 21:15:28.866066 2014] [:error] [pid 14679] [client 127.0.0.1:54774] PHP Warning:  require_once(/home/neron7/sites/sq.tj/www/vendor/yiisoft/yii/framework/yii.php): failed to open stream: No such file or directory in /home/neron7/sites/sq.tj/www/index.php on line 12
+[Sun Aug 17 21:15:28.866101 2014] [:error] [pid 14679] [client 127.0.0.1:54774] PHP Stack trace:
+[Sun Aug 17 21:15:28.866115 2014] [:error] [pid 14679] [client 127.0.0.1:54774] PHP   1. {main}() /home/neron7/sites/sq.tj/www/index.php:0
+[Sun Aug 17 21:15:28.866131 2014] [:error] [pid 14679] [client 127.0.0.1:54774] PHP Fatal error:  require_once(): Failed opening required '/home/neron7/sites/sq.tj/www/vendor/yiisoft/yii/framework/yii.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/neron7/sites/sq.tj/www/index.php on line 12
+[Sun Aug 17 21:15:28.866139 2014] [:error] [pid 14679] [client 127.0.0.1:54774] PHP Stack trace:
+[Sun Aug 17 21:15:28.866147 2014] [:error] [pid 14679] [client 127.0.0.1:54774] PHP   1. {main}() /home/neron7/sites/sq.tj/www/index.php:0
+[Sun Aug 17 21:16:17.032035 2014] [:error] [pid 14675] [client 127.0.0.1:54789] PHP Warning:  require_once(/home/neron7/sites/sq.tj/www../vendor/yiisoft/yii/framework/yii.php): failed to open stream: No such file or directory in /home/neron7/sites/sq.tj/www/index.php on line 12
+[Sun Aug 17 21:16:17.032166 2014] [:error] [pid 14675] [client 127.0.0.1:54789] PHP Stack trace:
+[Sun Aug 17 21:16:17.032203 2014] [:error] [pid 14675] [client 127.0.0.1:54789] PHP   1. {main}() /home/neron7/sites/sq.tj/www/index.php:0
+[Sun Aug 17 21:16:17.032246 2014] [:error] [pid 14675] [client 127.0.0.1:54789] PHP Fatal error:  require_once(): Failed opening required '/home/neron7/sites/sq.tj/www../vendor/yiisoft/yii/framework/yii.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/neron7/sites/sq.tj/www/index.php on line 12
+[Sun Aug 17 21:16:17.032264 2014] [:error] [pid 14675] [client 127.0.0.1:54789] PHP Stack trace:
+[Sun Aug 17 21:16:17.032314 2014] [:error] [pid 14675] [client 127.0.0.1:54789] PHP   1. {main}() /home/neron7/sites/sq.tj/www/index.php:0
+[Sun Aug 17 21:21:38.039756 2014] [:error] [pid 14754] [client 127.0.0.1:54840] PHP Warning:  require_once(/home/neron7/sites/sq.tj/www../vendor/yiisoft/yii/framework/yii.php): failed to open stream: No such file or directory in /home/neron7/sites/sq.tj/www/index.php on line 12
+[Sun Aug 17 21:21:38.039790 2014] [:error] [pid 14754] [client 127.0.0.1:54840] PHP Stack trace:
+[Sun Aug 17 21:21:38.039803 2014] [:error] [pid 14754] [client 127.0.0.1:54840] PHP   1. {main}() /home/neron7/sites/sq.tj/www/index.php:0
+[Sun Aug 17 21:21:38.039850 2014] [:error] [pid 14754] [client 127.0.0.1:54840] PHP Fatal error:  require_once(): Failed opening required '/home/neron7/sites/sq.tj/www../vendor/yiisoft/yii/framework/yii.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/neron7/sites/sq.tj/www/index.php on line 12
+[Sun Aug 17 21:21:38.039863 2014] [:error] [pid 14754] [client 127.0.0.1:54840] PHP Stack trace:
+[Sun Aug 17 21:21:38.039873 2014] [:error] [pid 14754] [client 127.0.0.1:54840] PHP   1. {main}() /home/neron7/sites/sq.tj/www/index.php:0
